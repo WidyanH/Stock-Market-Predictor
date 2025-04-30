@@ -17,9 +17,10 @@ To predict the next day's closing stock price using machine learning models trai
 
 | Model             | Mean Squared Error | R² Score |
 |------------------|--------------------|----------|
-| Linear Regression | 8.6056             | 0.9974   |
-| Random Forest     | 5253.1106          | -0.5758  |
-| Neural Network    | 1329.1610          | 0.6013   |
+| Linear Regression | 1.32              | 0.9912    |
+| Random Forest     | 3.07              | 0.9795    |
+| Neural Network    | 2.83              | 0.9506   |
+| Custom Method     | 22.66              | 0.8489   |
 
 ### 📈 Output Visualization
 
