@@ -49,7 +49,8 @@ To predict the next day's closing stock price using machine learning models trai
 
 ## 🧑‍💻 Contributor
 
-- Widyan Mohammed Hussien
+- Widyan
+- Afoma
 
 ## ✅ Status
 
